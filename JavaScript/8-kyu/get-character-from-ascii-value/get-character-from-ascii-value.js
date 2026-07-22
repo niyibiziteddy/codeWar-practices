@@ -1,0 +1,1 @@
+getChar = (n) => String.fromCharCode(n)
