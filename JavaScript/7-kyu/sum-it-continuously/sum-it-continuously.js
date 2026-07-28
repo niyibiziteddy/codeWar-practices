@@ -1,0 +1,1 @@
+let add = (arr) => arr.map((el,i,arr) => arr.slice(0,i+1).reduce((a,c) => a+c) )
