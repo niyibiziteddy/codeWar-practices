@@ -1,0 +1,1 @@
+toAcronym = inp => inp.split(' ').map(item => item[0]).join('').toUpperCase()
